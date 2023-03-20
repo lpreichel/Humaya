@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+
+.titulos{
+    color:white;
+    background-color: #585454;
+    text-align: center;
+}
+
+#logohumaya{
+    width: 10%;
+    height: auto;
+}
+
+#div1{
+   background: url(./img/imagenCentral.png);
+   background-size: 100% 100%;
+
+
+
+}
+
+.alto{
+    height: 300px;
+}
